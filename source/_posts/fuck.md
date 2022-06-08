@@ -1,3 +1,9 @@
+---
+title: 利用Hexo+GithubPages搭建个人博客
+date: 2022-06-02 22:14:18
+tags:Hexo
+---
+
 ## 一、 准备工作
 
 1. 本地Git环境配置
@@ -7,11 +13,13 @@
 ## 二、 安装Hexo并在本地初始化第一个博客系统
 
 1. 安装Hexo
+
    ```javascript
    npm i -g hexo-cli
    ```
 
 2. 初始化一个项目 <u>szl</u>
+
    ```javascript
    hexo init szl
    cd szl
@@ -19,34 +27,34 @@
    ```
 
 3. 本地启动
+
    ```javascript
    hexo g
    hexo s
    ```
 
 4. 访问本地项目网站
-   
+
    浏览器访问http://localhost:4000,初始化页面如下
-   
-   ![截图](e9b57cc05b7f3ca263ea41ae8cfd0642.png)
 
-## 三、 创建仓库
+   ![e9b57cc05b7f3ca263ea41ae8cfd0642](fuck/preview1.png)
 
-![截图](a273d87bc7cc2f998c2ab1580de6bb51.png)
+   三、 创建仓库
 
-![截图](e2e79ab9361d33108ddb9302cb36a76d.png)
+![a273d87bc7cc2f998c2ab1580de6bb51](fuck/r.png)
 
-按提示创建好仓库
+![e2e79ab9361d33108ddb9302cb36a76d](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\create.png)按提示创建好仓库
 
 ## 四、本地与github的链接
 
 1. 配置文件_config.yml
-   
-   ![截图](a9dd438899526fe4841e54d8a9475e69.png)
-   
+
+   ![a9dd438899526fe4841e54d8a9475e69](fuck/setting.png)
+
    repo在此
-   
-   ![截图](250e2c243e16f9a04c29f68a127839b6.png)
+
+   ![250e2c243e16f9a04c29f68a127839b6](fuck/httpplace.png)
+
 2. 本地目录命令行
 
 ```javascript
@@ -77,7 +85,7 @@ git push origin hexo
 
 ## 五、githubpages配置
 
-![截图](17c6c45abd618622db1ae79df9196b56.png)
+![17c6c45abd618622db1ae79df9196b56](fuck/githubpages.png)
 
 <br/>
 
@@ -120,6 +128,6 @@ hexo s
 
 不出意外的话，项目启动后应该是这样的
 
-![截图](94e224b86c8d68d4adbc319d0ba605a3.png)
+![94e224b86c8d68d4adbc319d0ba605a3](fuck/preview.png)
 
 更多精彩配置，敬请阅读[官方文档](https://github.com/cofess/hexo-theme-pure/blob/master/README.cn.md)进行配置

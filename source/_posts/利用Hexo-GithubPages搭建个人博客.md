@@ -37,23 +37,23 @@ tags:Hexo
 
    浏览器访问http://localhost:4000,初始化页面如下
 
-   ![e9b57cc05b7f3ca263ea41ae8cfd0642](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/e9b57cc05b7f3ca263ea41ae8cfd0642.png)
+   ![e9b57cc05b7f3ca263ea41ae8cfd0642](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\preview1.png)
 
    三、 创建仓库
 
-![a273d87bc7cc2f998c2ab1580de6bb51](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/a273d87bc7cc2f998c2ab1580de6bb51.png)
+![a273d87bc7cc2f998c2ab1580de6bb51](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\r.png)
 
-![e2e79ab9361d33108ddb9302cb36a76d](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/e2e79ab9361d33108ddb9302cb36a76d.png)按提示创建好仓库
+![e2e79ab9361d33108ddb9302cb36a76d](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\create.png)按提示创建好仓库
 
 ## 四、本地与github的链接
 
 1. 配置文件_config.yml
 
-   ![a9dd438899526fe4841e54d8a9475e69](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/a9dd438899526fe4841e54d8a9475e69.png)
+   ![a9dd438899526fe4841e54d8a9475e69](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\setting.png)
 
    repo在此
 
-   ![250e2c243e16f9a04c29f68a127839b6](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/250e2c243e16f9a04c29f68a127839b6.png)
+   ![250e2c243e16f9a04c29f68a127839b6](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\httpplace.png)
 
 2. 本地目录命令行
 
@@ -85,7 +85,7 @@ git push origin hexo
 
 ## 五、githubpages配置
 
-![17c6c45abd618622db1ae79df9196b56](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/17c6c45abd618622db1ae79df9196b56.png)
+![17c6c45abd618622db1ae79df9196b56](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\githubpages.png)
 
 <br/>
 
@@ -128,6 +128,6 @@ hexo s
 
 不出意外的话，项目启动后应该是这样的
 
-![94e224b86c8d68d4adbc319d0ba605a3](C:/Users/%E7%9B%9B%E9%95%87%E6%A2%81/AppData/Local/Temp/utools.notes/94e224b86c8d68d4adbc319d0ba605a3.png)
+![94e224b86c8d68d4adbc319d0ba605a3](F:\szl\source\_posts\利用Hexo-GithubPages搭建个人博客\preview.png)
 
 更多精彩配置，敬请阅读[官方文档](https://github.com/cofess/hexo-theme-pure/blob/master/README.cn.md)进行配置
