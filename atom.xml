@@ -6,7 +6,7 @@
   <link href="https://szl156.github.io/szl.github.io/atom.xml" rel="self"/>
   
   <link href="https://szl156.github.io/szl.github.io/"/>
-  <updated>2022-06-09T01:26:54.925Z</updated>
+  <updated>2022-06-21T03:09:52.638Z</updated>
   <id>https://szl156.github.io/szl.github.io/</id>
   
   <author>
@@ -15,6 +15,46 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hexo用法之如何添加多个标签</title>
+    <link href="https://szl156.github.io/szl.github.io/2022/06/21/Hexo%E7%94%A8%E6%B3%95%E4%B9%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%A4%9A%E4%B8%AA%E6%A0%87%E7%AD%BE/"/>
+    <id>https://szl156.github.io/szl.github.io/2022/06/21/Hexo%E7%94%A8%E6%B3%95%E4%B9%8B%E5%A6%82%E4%BD%95%E6%B7%BB%E5%8A%A0%E5%A4%9A%E4%B8%AA%E6%A0%87%E7%AD%BE/</id>
+    <published>2022-06-21T03:09:31.000Z</published>
+    <updated>2022-06-21T03:09:52.638Z</updated>
+    
+    
+    
+    
+    
+    <category term="Hexo" scheme="https://szl156.github.io/szl.github.io/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Python学习之Numpy(1)</title>
+    <link href="https://szl156.github.io/szl.github.io/2022/06/21/Python%E5%AD%A6%E4%B9%A0%E4%B9%8BNumpy-1/"/>
+    <id>https://szl156.github.io/szl.github.io/2022/06/21/Python%E5%AD%A6%E4%B9%A0%E4%B9%8BNumpy-1/</id>
+    <published>2022-06-21T02:45:35.000Z</published>
+    <updated>2022-06-21T03:17:36.766Z</updated>
+    
+    <content type="html"><![CDATA[<p>Numpy</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Numpy&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="Python" scheme="https://szl156.github.io/szl.github.io/tags/Python/"/>
+    
+    <category term="Numpy" scheme="https://szl156.github.io/szl.github.io/tags/Numpy/"/>
+    
+  </entry>
   
   <entry>
     <title>利用Hexo+GithubPages搭建个人博客</title>
